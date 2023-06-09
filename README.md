@@ -52,8 +52,8 @@ Nếu bạn muốn đóng góp vào dự án SloWey - Summarizer Extension, hãy
 
 ## Tác giả
 
-- Tên: [Your Name]
-- Email: [Your Email]
+- Tên: Trương Lê Vĩnh Phúc
+- Email: truonglevinhphuc2006@gmail.com
 
 ## Giấy phép
 
